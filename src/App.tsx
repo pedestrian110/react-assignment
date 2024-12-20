@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
 
-        <NavBar />
+        <NavBar/>
       <DataTableComponent/>
 
 
