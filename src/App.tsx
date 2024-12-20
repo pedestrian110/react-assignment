@@ -1,6 +1,6 @@
 
 import NavBar from "./components/navbar"
-import DataTableComponent from "./components/datatable"
+import DataTableComponent from "./components/createTable"
 
 const App = () => {
   return (
